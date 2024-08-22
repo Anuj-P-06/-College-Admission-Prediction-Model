@@ -19,7 +19,7 @@ Educational Insight: To provide a practical example of logistic regression in pr
 ## Tools Used:
 Jupyter Notebook-->Data Analysis, Data Preprocessing, Exploratory Data Analysis (EDA), Model Building and EvaluationDocumentation, Clustering.
 
-## Task Performed
+## Task Performed:
 ### 1) Data Preparation:
 - Data Loading: Loaded the dataset containing SAT scores, gender, and admission status.
 - Data Exploration: Performed initial exploration to understand the structure and content of the dataset.
