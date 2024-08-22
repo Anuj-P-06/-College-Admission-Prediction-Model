@@ -20,17 +20,17 @@ Educational Insight: To provide a practical example of logistic regression in pr
 Jupyter Notebook-->Data Analysis, Data Preprocessing, Exploratory Data Analysis (EDA), Model Building and EvaluationDocumentation, Clustering.
 
 ## Task Performed
-### 1)Data Preparation
+### 1) Data Preparation:
 - Data Loading: Loaded the dataset containing SAT scores, gender, and admission status.
 - Data Exploration: Performed initial exploration to understand the structure and content of the dataset.
 - Data Scaling: Scaled the data to prepare it for clustering.
-### 2)Logistic Regression
+### 2) Logistic Regression:
 - Feature Selection: Selected SAT scores and gender as features for predicting college admission.
 - Model Building: Built a logistic regression model to predict admission based on the selected features.
 - Model Fitting: Fit the logistic regression model to the data.
 - Model Evaluation: Evaluated the model using statistical metrics like coefficients, p-values, and summary outputs to interpret the significance of the predictors.
 - Model Interpretation: Interpreted the results, focusing on the influence of SAT scores and gender on admission decisions.
-### 3)K-Means Clustering
+### 3 )K-Means Clustering:
 - Model Initialization: Initialized the k-means clustering model with a specified number of clusters.
 - Model Fitting: Fit the k-means model to the scaled data to identify clusters.
 - Cluster Assignment: Assigned each data point to a cluster based on the k-means model.
