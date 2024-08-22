@@ -36,7 +36,7 @@ Jupyter Notebook-->Data Analysis, Data Preprocessing, Exploratory Data Analysis 
 - Cluster Assignment: Assigned each data point to a cluster based on the k-means model.
 
 ## Results and Findings:
-- The model made had a accuracy of 89.47% for predicting the addmission chance of students.
+- The model made had a accuracy of 94.64% for predicting the addmission chance of students.
 - The model effectively predicts college admission outcomes using SAT scores and gender, with both factors being significant predictors.
 - The model found that higher SAT scores significantly increase the likelihood of being admitted to college.
 - K-means clustering provides an additional layer of analysis by segmenting the data into distinct groups, which could be useful for understanding different applicant profiles.
